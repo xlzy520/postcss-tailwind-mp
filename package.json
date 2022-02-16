@@ -1,0 +1,19 @@
+{
+  "name": "postcss-tailwind-mp",
+  "version": "1.0.0",
+  "description": "tailwindcss在小程序上的一些兼容处理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xlzy520",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/xlzy520/postcss-tailwind-mp"
+  },
+  "homepage": "https://github.com/xlzy520/postcss-tailwind-mp",
+  "devDependencies": {
+    "postcss": "8.0.2"
+
+  }
+}
